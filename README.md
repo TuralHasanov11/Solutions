@@ -6,5 +6,5 @@ https://stackoverflow.com/questions/56199111/visual-studio-code-cmd-error-cannot
 Turn off unused-vars eslint (restart compiler after) - 
 https://stackoverflow.com/questions/61874994/vue-disable-no-unused-vars-error-the-simplest-fix
 
-How to display Image saved in storage folder on Laravel blade 
+How to display Image saved in storage folder on Laravel blade - 
 https://laracasts.com/discuss/channels/laravel/how-to-display-image-saved-in-storage-folder-on-blade
