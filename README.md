@@ -8,3 +8,6 @@ https://stackoverflow.com/questions/61874994/vue-disable-no-unused-vars-error-th
 
 How to display Image saved in storage folder on Laravel blade - 
 https://laracasts.com/discuss/channels/laravel/how-to-display-image-saved-in-storage-folder-on-blade
+
+Laravel sending response on validation fail -
+https://stackoverflow.com/questions/52521422/laravel-validation-always-returns-200-ok-from-api
