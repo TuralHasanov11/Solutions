@@ -13,3 +13,5 @@ Laravel sending response on validation fail -
 https://stackoverflow.com/questions/52521422/laravel-validation-always-returns-200-ok-from-api
 
 Laravel delete file from public folder - https://laracasts.com/discuss/channels/laravel/how-to-delete-images-from-public-folder
+
+Heroku choosing app to run heroku commands - https://wajeeh-ahsan.medium.com/heroku-missing-required-flag-a-bfc7ba0a00f5
