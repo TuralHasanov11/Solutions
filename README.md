@@ -17,3 +17,5 @@ Laravel delete file from public folder - https://laracasts.com/discuss/channels/
 Heroku choosing app to run heroku commands - https://wajeeh-ahsan.medium.com/heroku-missing-required-flag-a-bfc7ba0a00f5
 
 Darker overlay for background image - https://dev.to/ellen_dev/two-ways-to-achieve-an-image-colour-overlay-with-css-eio
+
+Change git branch to main - https://robrich.org/archive/2020/06/20/git-how-to-rename-master-to-main.aspx
